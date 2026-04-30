@@ -1,0 +1,56 @@
+/* Define uma fonte padrão e cor de fundo da página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+}
+
+/* Centraliza o formulário na tela */
+.container {
+    width: 300px;
+    margin: 50px auto;
+    background-color: rgb(0, 68, 255);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* Estiliza o título */
+h1 {
+    text-align: center;
+}
+
+/* Dá espaço entre os campos */
+p {
+    margin-bottom: 15px;
+}
+
+/* Estiliza todos os inputs */
+input {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+/* Estiliza o botão */
+button {
+    width: 100%;
+    padding: 10px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Muda a cor do botão ao passar o mouse */
+button:hover {
+    background-color: #0056b3;
+}
+
+/* Estiliza o rodapé */
+footer {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 12px;
+    color: gray;
+}
