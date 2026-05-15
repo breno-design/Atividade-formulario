@@ -35,8 +35,8 @@ input {
 button {
     width: 100%;
     padding: 10px;
-    background-color: #1a12f1;
-    color: rgb(255, 255, 255);
+    background-color: #09090a;
+    color: rgb(247, 246, 246);
     border: none;
     border-radius: 5px;
     cursor: pointer;
@@ -44,7 +44,7 @@ button {
 
 /* Muda a cor do botão ao passar o mouse */
 button:hover {
-    background-color: #b30006;
+    background-color: #fbf5f5;
 }
 
 /* Estiliza o rodapé */
